@@ -12,3 +12,5 @@ When a developer starts a new feature they create a feature branch using master 
 $ git checkout -b AM-1234/feature-branch-1 master
 Switched to a new branch 'AM-1234/feature-branch-1'
 ```
+
+Work is done on the feature branch until we're ready to open a pull request.
