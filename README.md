@@ -14,3 +14,6 @@ Switched to a new branch 'AM-1234/feature-branch-1'
 ```
 
 Work is done on the feature branch until we're ready to open a pull request.
+
+A PR is opened to merge the feature branch into release.  A PR instance is spun up and testing can occur.
+
